@@ -16,9 +16,6 @@ fs.readdir(directory, function(err, files) {
 });
 
 
-
-
-
 /*
  Here's the official solution in case you want to compare notes:
 
