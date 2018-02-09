@@ -1,0 +1,23 @@
+{
+  "name": "@jiaoyangfu/backenddevelopment",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiaoyangFU/freeCodeCampBackEndDevelop.git"
+  },
+  "author": "Jiaoyang fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiaoyangFU/freeCodeCampBackEndDevelop/issues"
+  },
+  "homepage": "https://github.com/JiaoyangFU/freeCodeCampBackEndDevelop#readme",
+  "description": "freeCodeCamp Backend Practice",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "concat-stream": "^1.6.0"
+  }
+}
