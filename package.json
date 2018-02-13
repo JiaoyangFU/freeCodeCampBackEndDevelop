@@ -18,6 +18,7 @@
   "description": "freeCodeCamp Backend Practice",
   "dependencies": {
     "bl": "^1.2.1",
-    "concat-stream": "^1.6.0"
+    "concat-stream": "^1.6.0",
+    "express": "^4.16.2"
   }
 }
